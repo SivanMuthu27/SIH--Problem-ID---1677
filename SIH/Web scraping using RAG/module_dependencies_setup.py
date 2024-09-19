@@ -1,0 +1,1 @@
+!apt-get install -y libnss3 libgconf-2-4
